@@ -1,0 +1,10 @@
+C:\Users\18079020\Desktop\Lab04a\Lab04a\bin\Debug\Lab04a.exe.config
+C:\Users\18079020\Desktop\Lab04a\Lab04a\bin\Debug\Lab04a.exe
+C:\Users\18079020\Desktop\Lab04a\Lab04a\bin\Debug\Lab04a.pdb
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.csprojResolveAssemblyReference.cache
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.Form1.resources
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.Properties.Resources.resources
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.csproj.GenerateResource.cache
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.csproj.CoreCompileInputs.cache
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.exe
+C:\Users\18079020\Desktop\Lab04a\Lab04a\obj\Debug\Lab04a.pdb
